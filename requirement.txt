@@ -1,1 +1,8 @@
 需要安裝的套件有:
+matplotlib==3.2.2
+numpy==1.19.5
+pandas==1.1.5
+keras==2.7.0
+keras-Preprocessing=1.1.2
+seaborn==0.11.2
+tensorflow==2.7.0
